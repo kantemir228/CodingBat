@@ -1,4 +1,4 @@
-package war1;
+package org.example;
 
 public class sleepIn {
     public static void main(String[] args) {
